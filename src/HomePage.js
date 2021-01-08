@@ -149,7 +149,7 @@ const styles = StyleSheet.create({
         flex: 2,
         padding: 10,
         borderColor: '#ccc',
-        borderWidth: 1,
+        borderWidth: 2,
         borderLeftWidth: 0,
         borderBottomRightRadius: 8,
         borderTopRightRadius: 8,
